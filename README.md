@@ -8,7 +8,7 @@
 Simply install to your project:
 
 ```bash
-sampctl package install Fairuz-Afdhal/SAMPMailJS
+sampctl package install bruxo00/SAMPMailJS
 ```
 
 Include in your code and begin using the library:
